@@ -1,4 +1,6 @@
 # Polymarket CLOB Client
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fclob-client.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fclob-client?ref=badge_shield)
+
 
 <a href='https://www.npmjs.com/package/@polymarket/clob-client'>
     <img src='https://img.shields.io/npm/v/@polymarket/clob-client.svg' alt='NPM'/>
@@ -46,3 +48,7 @@ const signatureType = 1;
 ```
 
 See [examples](examples/) for more information
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fclob-client.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fclob-client?ref=badge_large)
